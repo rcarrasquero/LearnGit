@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 129D-E044
+
+ Directory of C:\development\LearnGit\.git
+
+10/04/2020  12:57 p.m.                47 COMMIT_EDITMSG
+10/04/2020  12:53 p.m.               307 config
+10/04/2020  12:52 p.m.                73 description
+10/04/2020  12:53 p.m.                23 HEAD
+10/04/2020  12:52 p.m.    <DIR>          hooks
+10/04/2020  12:57 p.m.               145 index
+10/04/2020  12:52 p.m.    <DIR>          info
+10/04/2020  12:53 p.m.    <DIR>          logs
+10/04/2020  12:57 p.m.    <DIR>          objects
+10/04/2020  12:53 p.m.               114 packed-refs
+10/04/2020  12:53 p.m.    <DIR>          refs
+               6 File(s)            709 bytes
+               5 Dir(s)  58.935.857.152 bytes free
